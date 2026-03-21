@@ -1,18 +1,9 @@
-<br clear="both">
 
-<h1 align="left">Olá, me chamo Baltazar e sou dev FullStack</h1>
+**`Desenvolvedor FullStack`**
 
-###
+Me chamo Baltazar Dostatny, sou natural do Rio Grande do Sul e atualmente estou cursando Ciência da computação na PUCRS
 
-<h2 align="left">Sobre mim:</h2>
-
-###
-
-<p align="left">Estudande bacharelado Ciência da computação</p>
-
-###
-
-<h2 align="left">Tecnologias que utilizo:</h2>
+###Linguagens e Tecnologias:
 
 ###
 
@@ -38,22 +29,22 @@
 
 ###
 
-<div align="left">
-  <a href="linkedin.com/in/baltazardostatny" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+###Estatísticas
 
-###
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=BaltazarDostatny&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<img src="https://raw.githubusercontent.com/BaltazarDostatny/BaltazarDostatny/output/snake.svg" alt="Snake animation" />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaltazarDostatny&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-###
-
-<img align="left" height="200" src="https://c.tenor.com/fJ96JtWCBdkAAAAd/tenor.gif"  />
-
-###
-
-<img align="right" height="200" src="https://c.tenor.com/d9tF2NHlxcoAAAAd/tenor.gif"  />
-
-###
+</p>
