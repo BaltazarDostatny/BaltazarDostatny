@@ -1,11 +1,12 @@
+<br clear="both">
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Baltazar Dostatny, sou natural do Rio Grande do Sul e atualmente estou cursando Ciência da computação na PUCRS
-
-###Linguagens e Tecnologias:
+<p align="left">Me chamo Baltazar Dostatny, sou natural do Rio Grande do Sul e atualmente estou cursando Ciência da computação na PUCRS</p>
 
 ###
+
+<h2 align="left">Linguagens e Tecnologias:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -29,22 +30,16 @@ Me chamo Baltazar Dostatny, sou natural do Rio Grande do Sul e atualmente estou 
 
 ###
 
-###Estatísticas
+<h2 align="left">Linkedin:</h2>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BaltazarDostatny&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="left">
+  <a href="linkedin.com/in/baltazardostatny" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaltazarDostatny&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+###
 
-</p>
+<img align="left" height="200" src="https://c.tenor.com/fJ96JtWCBdkAAAAd/tenor.gif"  />
+
+##
