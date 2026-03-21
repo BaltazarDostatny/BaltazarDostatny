@@ -1,6 +1,4 @@
-<br clear="both">
-
-**`Desenvolvedor FullStack`**
+<h1>Desenvolvedor FullStack</h1>
 
 <p align="left">Me chamo Baltazar Dostatny, sou natural do Rio Grande do Sul e atualmente estou cursando Ciência da computação na PUCRS</p>
 
