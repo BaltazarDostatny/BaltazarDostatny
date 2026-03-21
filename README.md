@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
-
 <h2 align="left">Linkedin:</h2>
 
 <div align="left">
@@ -36,8 +34,8 @@
   </a>
 </div>
 
-###
-
-<img align="left" height="200" src="https://c.tenor.com/fJ96JtWCBdkAAAAd/tenor.gif"  />
-
 ##
+
+<img align="left" height="150" src="https://c.tenor.com/fJ96JtWCBdkAAAAd/tenor.gif"  />
+
+
