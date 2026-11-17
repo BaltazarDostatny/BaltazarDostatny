@@ -1,8 +1,6 @@
 <h1>Desenvolvedor FullStack</h1>
 
-<p align="left">Me chamo Baltazar Dostatny, sou natural do Rio Grande do Sul e atualmente estou cursando Ciência da computação na PUCRS</p>
-
-###
+<p align="left">Me chamo Baltazar Dostatny e sou natural do Rio Grande do Sul</p>
 
 <h2 align="left">Linguagens e Tecnologias:</h2>
 
@@ -26,15 +24,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<h2 align="left">Linkedin:</h2>
-
+<h2 align="left">Formação</h2>
 <div align="left">
-  <a href="linkedin.com/in/baltazardostatny" target="_blank">
+  <p>Ciência da computação 2025 - atualmente PUCRS</p>
+  <img src="https://portal.pucrs.br/wp-content/themes/pucrs/assets/images/logo-pucrs.png" height="40" alt="PUCRS logo"  />
+</div>
+
+<h2 align="left">Redes e contatos:</h2>
+<div align="left">
+  <a href="https://linkedin.com/in/baltazardostatny" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-##
 
 <img align="left" height="150" src="https://c.tenor.com/fJ96JtWCBdkAAAAd/tenor.gif"  />
 
