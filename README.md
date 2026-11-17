@@ -26,7 +26,7 @@
 
 <h2 align="left">Formação</h2>
 <div align="left">
-  <p>Ciência da computação 2025 - atualmente PUCRS</p>
+  <p>Ciência da computação | 2025 - atualmente</p>
   <img src="https://portal.pucrs.br/wp-content/themes/pucrs/assets/images/logo-pucrs.png" height="40" alt="PUCRS logo"  />
 </div>
 
