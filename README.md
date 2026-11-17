@@ -50,4 +50,11 @@
 
 <img align="left" height="150" src="https://c.tenor.com/fJ96JtWCBdkAAAAd/tenor.gif"  />
 
+<h2 align="left">Linguagens Mais Usadas</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baltazardostatny&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Langs" />
+</div>
+<div style="clear: both;"></div>
+
 
