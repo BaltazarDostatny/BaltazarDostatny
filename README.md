@@ -28,11 +28,16 @@
 
 <h2 align="left">Formação</h2>
 
-<div align="left">
-  <img align="left" src="https://portal.pucrs.br/wp-content/themes/pucrs/assets/images/logo-pucrs.png" height="35" alt="PUCRS logo" style="vertical-align: middle; margin-right: 12px;" />
-  <p style="display: inline-block; vertical-align: middle; margin: 0;"><strong>PUCRS</strong> — Ciência da Computação | 2025 - atualmente</p>
-</div>
-<br clear="left"/>
+<table>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 12px; border: none;">
+      <img src="https://portal.pucrs.br/wp-content/themes/pucrs/assets/images/logo-pucrs.png" height="35" alt="PUCRS logo" />
+    </td>
+    <td style="vertical-align: middle; border: none;">
+      <p style="margin: 0;"><strong>PUCRS</strong> — Ciência da Computação | 2025 - atualmente</p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">Redes e contatos:</h2>
 <div align="left">
